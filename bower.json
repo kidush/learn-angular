@@ -1,0 +1,21 @@
+{
+  "name": "livro_angular_exemplos",
+  "version": "0.0.1",
+  "authors": [
+    "Thiago F. Lins <thiago.evandson@gmail.com>"
+  ],
+  "description": "Exemplos do Livro de angularjs",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "tlins.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
